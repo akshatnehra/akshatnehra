@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif)](https://github.com/akshatnehra)
+
 <h1 align="center">Hi 👋, I'm Akshat Nehra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/c/680/428/1*IRGHmiGsa16stedQvIaZfw.gif">
