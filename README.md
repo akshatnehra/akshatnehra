@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Akshat Nehra</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer in Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/c/680/428/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
