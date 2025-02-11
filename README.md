@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [Mnemonic Dictionary Scrapper](https://github.com/akshatnehra/Mnemonic-Dictionary-Scrapper)
+- 👯 I’m looking to collaborate on [OSHO Discourses downloader](https://github.com/akshatnehra/OSHO-Discourses-downloader-updated-april-2024)
 
 - 💬 Ask me about **MERN**
 
